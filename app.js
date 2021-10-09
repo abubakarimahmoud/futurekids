@@ -12,3 +12,6 @@ const btn = document.querySelector('button');
 btn.addEventListener('click', ()=>{
     btn.style.backgroundColor = 'purple'
 })
+
+
+h1.style.color = 'yellow'
